@@ -1,0 +1,1 @@
+﻿New-item -ItemType SymbolicLink -path C:\Users\SK6138\Videos\ -name dataimport.py  -value "C:\Users\SK6138\OneDrive - ENGIE\Dashboard\Sources de données_maison\Dataimport.py"
