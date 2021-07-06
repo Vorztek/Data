@@ -1,0 +1,216 @@
+,country,cases,deaths,continent
+0,Country,Cases,Deaths,Region
+1,United States,"1,771,631","103,418",North America
+2,Brazil,"438,812","26,764",South America
+3,Russia,"387,623","4,374",Europe
+4,Spain,"284,986","27,119",Europe
+5,United Kingdom,"269,127","37,837",Europe
+6,Italy,"231,732","33,142",Europe
+7,France,"186,238","28,662",Europe
+8,Germany,"182,710","8,577",Europe
+9,India,"169,011","4,820",Asia
+10,Turkey,"160,979","4,461",Asia
+11,Iran,"146,668","7,677",Asia
+12,Peru,"141,779","4,099",South America
+13,Canada,"88,512","6,877",North America
+14,Chile,"86,943",890,South America
+15,China,"82,995","4,634",Asia
+16,Saudi Arabia,"81,766",458,Asia
+17,Mexico,"81,400","9,044",North America
+18,Pakistan,"64,028","1,317",Asia
+19,Belgium,"58,061","9,430",Europe
+20,Qatar,"52,907",36,Asia
+21,Netherlands,"46,126","5,931",Europe
+22,Bangladesh,"42,844",582,Asia
+23,Belarus,"40,764",224,Europe
+24,Ecuador,"38,471","3,313",South America
+25,Sweden,"36,476","4,350",Europe
+26,Singapore,"33,860",23,Asia
+27,United Arab Emirates,"33,170",260,Asia
+28,Portugal,"31,946","1,383",Europe
+29,Switzerland,"30,828","1,919",Europe
+30,South Africa,"27,403",577,Africa
+31,Colombia,"25,366",822,South America
+32,Indonesia,"25,216","1,520",Asia
+33,Kuwait,"25,184",194,Asia
+34,Ireland,"24,841","1,639",Europe
+35,Poland,"22,964","1,043",Europe
+36,Ukraine,"22,811",679,Europe
+37,Egypt,"20,793",845,Africa
+38,Romania,"18,982","1,240",Europe
+39,Israel,"16,887",284,Asia
+40,Japan (+Diamond Princess),"17,395",880,Asia
+41,Austria,"16,655",668,Europe
+42,Philippines,"16,634",942,Asia
+43,Dominican Republic,"16,068",485,North America
+44,Argentina,"14,702",510,South America
+45,Afghanistan,"13,659",246,Asia
+46,Panama,"12,131",320,North America
+47,Denmark,"11,593",568,Europe
+48,South Korea,"11,402",269,Asia
+49,Serbia,"11,354",242,Europe
+50,Bahrain,"10,352",15,Asia
+51,Kazakhstan,"9,932",37,Asia
+52,Oman,"9,820",40,Asia
+53,Czech Republic (Czechia),"9,143",319,Europe
+54,Algeria,"8,997",630,Africa
+55,Nigeria,"8,915",259,Africa
+56,Armenia,"8,676",120,Asia
+57,Norway,"8,422",236,Europe
+58,Bolivia,"8,387",293,South America
+59,Moldova,"7,896",288,Europe
+60,Malaysia,"7,732",115,Asia
+61,Morocco,"7,697",202,Africa
+62,Ghana,"7,616",34,Africa
+63,Australia,"7,173",103,Australia/Oceania
+64,Finland,"6,776",314,Europe
+65,Iraq,"5,457",179,Asia
+66,Cameroon,"5,436",175,Africa
+67,Azerbaijan,"4,989",58,Asia
+68,Honduras,"4,752",196,North America
+69,Guatemala,"4,348",80,North America
+70,Sudan,"4,346",195,Africa
+71,Luxembourg,"4,008",110,Europe
+72,Hungary,"3,841",517,Europe
+73,Tajikistan,"3,686",47,Asia
+74,Guinea,"3,553",22,Africa
+75,Uzbekistan,"3,468",14,Asia
+76,Senegal,"3,429",41,Africa
+77,Thailand,"3,076",57,Asia
+78,Djibouti,"2,914",20,Africa
+79,Greece,"2,906",175,Europe
+80,DR Congo,"2,833",69,Africa
+81,Côte d'Ivoire,"2,641",32,Africa
+82,Bosnia and Herzegovina,"2,485",153,Europe
+83,Bulgaria,"2,485",136,Europe
+84,Gabon,"2,431",14,Africa
+85,El Salvador,"2,278",42,North America
+86,Croatia,"2,245",103,Europe
+87,North Macedonia,"2,129",126,Europe
+88,Cuba,"2,005",82,North America
+89,Estonia,"1,859",67,Europe
+90,Somalia,"1,828",72,Africa
+91,Iceland,"1,805",10,Europe
+92,Kenya,"1,745",62,Africa
+93,Mayotte,"1,699",21,Africa
+94,Lithuania,"1,662",68,Europe
+95,Kyrgyzstan,"1,662",16,Asia
+96,Sri Lanka,"1,540",10,Asia
+97,Slovakia,"1,520",28,Europe
+98,Maldives,"1,513",5,Asia
+99,New Zealand,"1,504",22,Australia/Oceania
+100,Slovenia,"1,473",108,Europe
+101,Haiti,"1,443",35,North America
+102,Venezuela,"1,325",11,South America
+103,Equatorial Guinea,"1,306",12,Africa
+104,Nepal,"1,212",6,Asia
+105,Guinea-Bissau,"1,195",8,Africa
+106,Mali,"1,194",72,Africa
+107,Lebanon,"1,172",26,Asia
+108,Albania,"1,099",33,Europe
+109,Hong Kong,"1,080",4,Asia
+110,Tunisia,"1,071",48,Africa
+111,Latvia,"1,064",24,Europe
+112,Zambia,"1,057",7,Africa
+113,Costa Rica,"1,000",10,North America
+114,South Sudan,994,10,Africa
+115,Ethiopia,968,8,Africa
+116,Niger,955,64,Africa
+117,Cyprus,941,17,Asia
+118,Paraguay,900,11,South America
+119,Burkina Faso,847,53,Africa
+120,Sierra Leone,829,45,Africa
+121,Uruguay,811,22,South America
+122,Andorra,764,51,Europe
+123,Nicaragua,759,35,North America
+124,Central African Republic,755,1,Africa
+125,Georgia,746,12,Asia
+126,Jordan,728,9,Asia
+127,Chad,726,65,Africa
+128,Madagascar,698,5,Africa
+129,San Marino,671,42,Europe
+130,Malta,616,8,Europe
+131,Congo,571,19,Africa
+132,Jamaica,569,9,North America
+133,Channel Islands,560,45,Europe
+134,Tanzania,509,21,Africa
+135,Réunion,470,1,Africa
+136,Sao Tome & Principe,458,12,Africa
+137,State of Palestine,446,3,Asia
+138,Taiwan,442,7,Asia
+139,French Guiana,436,1,South America
+140,Togo,422,13,Africa
+141,Cabo Verde,390,4,Africa
+142,Rwanda,349,0,Africa
+143,Mauritania,346,19,Africa
+144,Isle of Man,336,24,Europe
+145,Mauritius,335,10,Africa
+146,Vietnam,327,0,Asia
+147,Montenegro,324,9,Europe
+148,Uganda,317,0,Africa
+149,Eswatini,279,2,Africa
+150,Yemen,278,57,Asia
+151,Liberia,273,27,Africa
+152,Mozambique,233,2,Africa
+153,Benin,224,3,Africa
+154,Myanmar,206,6,Asia
+155,Malawi,203,4,Africa
+156,Martinique,197,14,North America
+157,Faeroe Islands,187,0,Europe
+158,Mongolia,179,0,Asia
+159,Guadeloupe,161,14,North America
+160,Gibraltar,161,0,Europe
+161,Guyana,150,11,South America
+162,Zimbabwe,149,4,Africa
+163,Brunei ,141,2,Asia
+164,Bermuda,140,9,North America
+165,Cayman Islands,140,1,North America
+166,Cambodia,124,0,Asia
+167,Syria,122,4,Asia
+168,Trinidad and Tobago,116,8,North America
+169,Libya,105,5,Africa
+170,Bahamas,101,11,North America
+171,Aruba,101,3,North America
+172,Monaco,98,4,Europe
+173,Barbados,92,7,North America
+174,Comoros,87,2,Africa
+175,Liechtenstein,82,1,Europe
+176,Sint Maarten,77,15,North America
+177,Angola,74,4,Africa
+178,French Polynesia,60,0,Australia/Oceania
+179,Macao,45,0,Asia
+180,Burundi,42,1,Africa
+181,Saint Martin,40,3,North America
+182,Eritrea,39,0,Africa
+183,Botswana,35,1,Africa
+184,Bhutan,31,0,Asia
+185,Antigua and Barbuda,25,3,North America
+186,Gambia,25,1,Africa
+187,St. Vincent & Grenadines,25,0,North America
+188,Timor-Leste,24,0,Asia
+189,Grenada,23,0,North America
+190,Namibia,23,0,Africa
+191,New Caledonia,19,0,Australia/Oceania
+192,Laos,19,0,Asia
+193,Belize,18,2,North America
+194,Curaçao,18,1,North America
+195,Saint Lucia,18,0,North America
+196,Fiji,18,0,Australia/Oceania
+197,Dominica,16,0,North America
+198,Saint Kitts & Nevis,15,0,North America
+199,Greenland,13,0,North America
+200,Falkland Islands,13,0,South America
+201,Suriname,12,1,South America
+202,Turks and Caicos,12,1,North America
+203,Holy See,12,0,Europe
+204,Montserrat,11,1,North America
+205,Seychelles,11,0,Africa
+206,MS Zaandam,9,2,
+207,Western Sahara,9,1,Africa
+208,British Virgin Islands,8,1,North America
+209,Papua New Guinea,8,0,Australia/Oceania
+210,Saint Barthelemy,6,0,North America
+211,Caribbean Netherlands,6,0,North America
+212,Anguilla,3,0,North America
+213,Lesotho,2,0,Africa
+214,Saint Pierre & Miquelon,1,0,North America
