@@ -1,4 +1,4 @@
-import pandas as pd
+""" import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
@@ -42,4 +42,4 @@ df = pd.DataFrame({
 df.to_csv("Covid2.csv")
 
 # Resultat
-# https://docs.google.com/spreadsheets/d/141_yBtLN6zIG3gLBBaESEo2hZ1osKKopbtQ3AwURxKo/edit?usp=sharing
+# https://docs.google.com/spreadsheets/d/141_yBtLN6zIG3gLBBaESEo2hZ1osKKopbtQ3AwURxKo/edit?usp=sharing """
