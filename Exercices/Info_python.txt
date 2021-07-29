@@ -1,0 +1,23 @@
+﻿ville[:3] > Les 3 premiers
+ville[2:] > Les deux derniers
+ville[::2] > Toute la liste de deux en deux
+ville[::-1] > toute la liste inversé
+print("Je t'aime Eleonore"[::-1]) > eronoelE emia't eJ
+
+append ajoute un élément
+extend ajoute une liste 
+
+Pour les indices d'une liste : enumerate
+
+Ne pas oublier d'utiliser zip !! (pour deux listes mis dans une variable) : 
+for a, b in zip(villes, list_x)
+    print a, b              
+    
+----------------
+dictionnaire["abricots"] = 4092
+abricots c'est la clé, 4092 la valeur
+Si on sait pas si la valeur existe : 
+print(inventaire.get("cerises"))
+
+Créer un dictionnaire à partir d'un autre et des infos : 
+inventaire.fromkeys(liste1, x)
