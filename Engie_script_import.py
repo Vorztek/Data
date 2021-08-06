@@ -1,6 +1,12 @@
 from selenium import webdriver
 import os
 import time
+import tkinter as tk
+    
+
+#def write_slogan():
+#    print("Tkinter is easy to use!")
+
 
 
 def erasefile():
@@ -173,5 +179,20 @@ def downloads():
     driver.quit()
 
 
-erasefile()
-downloads()
+root = tk.Tk()
+frame = tk.Frame(root)
+frame.pack()
+
+button = tk.Button(frame, 
+                   text="Ne pas commencer l'import j'ai une réu dans 5 min !", 
+                   fg="red",
+                   command=quit)
+button.pack(side=tk.LEFT)
+slogan = tk.Button(frame,
+                   text="Commencer l'importation de données !",
+                   fg="green",
+                   command=erasefile() & downloads()
+                   )
+slogan.pack(side=tk.LEFT)
+
+root.mainloop()

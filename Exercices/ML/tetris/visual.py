@@ -11,5 +11,6 @@ x = df['timing']
 plt.xlabel('Temps en secondes')
 plt.ylabel('Score atteint')
 
-plt.scatter(x, y, c = x)
+#plot.plot(x, y, c = x)
+plt.hist2d(x, y)
 plt.show()
