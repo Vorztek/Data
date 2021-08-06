@@ -1,3 +1,11 @@
-﻿import timeit
+﻿import time
 
-print(type(timeit.default_timer()))
+a = time.time()
+
+for i in range(1000):
+    print(i * 15453 * 151)
+
+b = time.time()
+
+print(b - a)
+

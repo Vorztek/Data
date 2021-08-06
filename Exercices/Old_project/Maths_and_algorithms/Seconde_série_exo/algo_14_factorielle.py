@@ -11,4 +11,5 @@ def factorielle(i):
     for i in range(1, i +1):
         valeur = valeur *i
     return valeur
-print(factorielle(7))
+
+print(factorielle(40))
