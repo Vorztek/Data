@@ -10,3 +10,4 @@ This project uses a tetris game, outputs the results in a data set and allows vi
 ### Matplotlib & Seaborn
 
 ![Alt text](https://i.imgur.com/PzRXwel.jpeg "Matplotlib")
+![Alt text](https://i.imgur.com/oWpsweQ.jpeg "Matplotlib")
