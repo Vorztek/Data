@@ -1,4 +1,4 @@
-﻿from génération_nombre_premiers import is_prime
+from génération_nombre_premiers import is_prime
 import timeit
 import matplotlib.pyplot as plt
 
@@ -23,4 +23,3 @@ def time_calcul():
 time_calcul
 plt.plot(time_calcul())
 plt.show()
-
