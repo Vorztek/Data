@@ -6,6 +6,15 @@ def every(k):
     return nums
 
 
-print(every(1))
+""" print(every(1))
 print(every(2))
-print(every(3))
+print(every(3)) """
+
+def compte(n):
+    for i in range(n):
+        a = every(i)
+
+    return a
+
+
+print(compte(1000))

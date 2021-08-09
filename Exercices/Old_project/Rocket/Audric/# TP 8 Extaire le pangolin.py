@@ -6,4 +6,4 @@ animaux[-1]
 
 #Or
 
-print(animaux[-1])
+print(animaux)

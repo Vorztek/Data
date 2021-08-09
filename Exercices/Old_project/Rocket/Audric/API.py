@@ -9,6 +9,6 @@ import requests
 #headers = {"authorization" : "token b6102f24b155e02ee81c4f9d97dbe2f09281055c"}
 # Requête Get sur mon compte
 # Passer le paramètre headers dans l'url
-response = requests.get("https://api.github.com/users/DjangoPython66")
-
-print(response.json())
+for i in range(50):
+    response = requests.get("https://www.cia.gov/")
+    print(response)

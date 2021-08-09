@@ -155,7 +155,6 @@ starting_time = time.time()
 fps = 250
 game = Tetris(20, 10)
 counter = 0
-
 pressing_down = False
 liste_score = []
 liste_timing = []
