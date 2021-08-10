@@ -2,7 +2,7 @@
 import random
 import tetris_ai
 import time
-from pytictoc import TicToc
+
 import csv
 
 colors = [

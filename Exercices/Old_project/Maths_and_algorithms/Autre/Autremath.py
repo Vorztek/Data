@@ -1,6 +1,8 @@
-﻿from sympy import *
-
+﻿from sympy.plotting import plot3d
+from sympy import *
+import matplotlib.pyplot as plt
 
 x = Symbol("x")
+y = Symbol("y")
 
-print(limit(x, sqrt(x), oo, dir = " - "))
+print(plot3d(x**2+y**2, (x,-5,5), (y,-50,50)))
